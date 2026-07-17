@@ -4,7 +4,7 @@ Welcome! This organization serves as a central hub to hold all the academic proj
 
 ## 📌 Repository Overview
 
-### 🏥 [MediHelp](https://github.com/academic-projects-abisheck/MediHelp) — AI-Powered Disease Prediction & Virtual Health Companion
+### 🏥 [MediHelp](https://github.com/academic-projects-abisheck/MediHelp---AI-Health-Assistant-Disease-Predictor) — AI-Powered Disease Prediction & Virtual Health Companion
 A full-stack healthcare web application designed to evaluate patient health indicators, predict potential medical risks, and provide conversational guidance. I built this during an intensive **6-day engineering sprint in my 4th semester**, focusing on ML integration, database security, and responsive UI design.
 
 *   **Brain & Core Features:**
